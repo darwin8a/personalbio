@@ -1,0 +1,37 @@
+body {
+  background: black;
+  color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgrey;
+}
+
+.paragraph1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+.dpage {
+  text-align: left;
+}
+
+.rep {
+  color: darkgrey;
+}
+
+#img {
+    display: block;
+    margin: auto;
+}
+
+.none {
+  color: green;
+}
